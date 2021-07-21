@@ -20,4 +20,19 @@
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
     </ItemGroup>
 
+    <ItemGroup>
+      <EmbeddedResource Update="Resources\LevelModel.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>LevelModel.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Resources\LevelModel.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>LevelModel.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>

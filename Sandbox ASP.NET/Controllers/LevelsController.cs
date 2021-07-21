@@ -70,7 +70,7 @@ namespace Sandbox_ASP.NET.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Author,Public,Map")] LevelViewModel levelViewModel)
+        public async Task<IActionResult> Create([Bind("Id,Name,Author,Public,Map")] LevelModel levelViewModel)
         {
             if (ModelState.IsValid)
             {
@@ -103,7 +103,7 @@ namespace Sandbox_ASP.NET.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(Guid id, [Bind("Id,Name,Author,Public,Map")] LevelViewModel levelViewModel)
+        public async Task<IActionResult> Edit(Guid id, [Bind("Id,Name,Author,Public,Map")] LevelModel levelViewModel)
         {
             if (id != levelViewModel.Id)
             {

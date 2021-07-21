@@ -320,6 +320,11 @@
         "runtime": {
           "Sandbox ASP.NET.dll": {}
         },
+        "resources": {
+          "ru/Sandbox ASP.NET.resources.dll": {
+            "locale": "ru"
+          }
+        },
         "compile": {
           "Sandbox ASP.NET.dll": {}
         }

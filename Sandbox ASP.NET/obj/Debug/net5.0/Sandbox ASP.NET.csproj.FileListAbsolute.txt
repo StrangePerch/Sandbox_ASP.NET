@@ -184,3 +184,9 @@ C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\n
 C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Razor\Views\Levels\Details.cshtml.g.cs
 C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Razor\Views\Levels\Edit.cshtml.g.cs
 C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Razor\Views\Levels\Index.cshtml.g.cs
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\bin\Debug\net5.0\ru\Sandbox ASP.NET.resources.dll
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Sandbox ASP.NET.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\ru\Sandbox ASP.NET.resources.cs
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\ru\Sandbox ASP.NET.resources.dll
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Sandbox_ASP.NET.Resources.LevelModel.resources
+C:\Users\Admin\RiderProjects\ASP.NET\Sandbox ASP.NET\Sandbox ASP.NET\obj\Debug\net5.0\Sandbox_ASP.NET.Resources.LevelModel.ru.resources

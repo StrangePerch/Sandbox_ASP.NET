@@ -9,7 +9,7 @@ namespace Sandbox_ASP.NET.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
-        public DbSet<LevelViewModel> Levels { get; set; }
+        public DbSet<LevelModel> Levels { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
